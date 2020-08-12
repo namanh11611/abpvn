@@ -2,7 +2,7 @@
 ! Title: Nam Anh Custom List
 ! Nam Anh Custom List
 ! Last modified: 12 Aug 2020 10:36 UTC+7
-! Expires: 1 day
+! Expires: 1 hour
 ! Copyright: Nam Anh
 ! ---------- Generic Blocking Rules ----------
 ||ads.exdynsrv.com/ads.js
