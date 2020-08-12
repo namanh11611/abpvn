@@ -1,0 +1,216 @@
+! Version: 202008121036
+! Title: Nam Anh Custom List
+! Nam Anh Custom List
+! Last modified: 12 Aug 2020 10:36 UTC+7
+! Expires: 1 day
+! Copyright: Nam Anh
+! ---------- Generic Blocking Rules ----------
+||ads.exdynsrv.com/ads.js
+||v9banners.com/*/affiliate/*.gif
+||sbbanner.com/*/promo/*.gif
+||m.truyentranh869.com/*/adv/*
+||blogspot.com^*.gif$domain=~blogtruyen.com|~nccsupports.com|~hocvientruyentranh.com|~truyenchon.com|~nettruyen.com
+||blogspot.com/*.gif$domain=m.blogtruyen.com
+||blogspot.com/*/s0/$domain=m.blogtruyen.com
+||static.ketqua.net/img/qc/*
+||static.ketqua.net/vid/qc/*
+||syndication.exdynsrv.com/ads-iframe-display.php
+||truyenqq.com/qc-new/*
+||truyenqq.com/mobilebanner*
+||truyensex.tv/t1.gif
+||truyensex.tv/t2.gif
+||truyensex.tv/tt.gif
+||truyensex.tv/ttt.gif
+||truyensex.tv/b1.gif
+||truyensex.tv/b2.gif
+||truyensex.tv/allx.jpg
+||truyensex.tv/duoi.gif
+||jav22.net/ads.html
+||javzz.net/images/320x90*.gif
+||javzz.net/images/300x90*.gif
+||iframe2.adxxx.com
+||greenupload.com/images/*.gif$domain=lauxanh.org
+! ---------- Cosmetic Rules ----------
+vuviphim.com##.float-ck
+vuviphim.com###bannertop
+vuviphim.com###ai_widget-2
+vuviphim.com###mobileCatfish
+mobile.bongdaso.com##.div_banner_floating
+rongbachkim.com###fixb
+xemsex.me##.float-ck
+thethao.vnexpress.net##.banner_mobile_300x250
+thethao.vnexpress.net###banner_top
+vnexpress.net##.banner_mobile_300x250
+vnexpress.net###banner_top
+tructiephd.com##.bn_bottom_fixed
+tructiephd.com##.ads_player
+tructiephd.net##.bn_bottom_fixed
+tructiephd.net##.ads_player
+bongdaso.com##.med_rec_banner3
+bongdaso.com##.med_rec_banner4
+bongdaso.com##.med_rec_banner5
+bongdaso.com##.rec_banner1
+bongdaso.com##.rec_banner2
+bongdaso.com##.rec_banner3
+bongdaso.com##.rec_banner4
+bongdaso.com##.rec_banner5
+bongdaso.com##.leaderboard_banner
+bongdaso.com##.full_banner1
+bongdaso.com##.full_banner2
+bongdaso.com##a[href*="http://www.v9bet88.com/?affcode"]
+phimmoi.net##div[id*="uniad-zone"]
+phimmoi.net##div[id*="uniad-balloon-wrapper"]
+###criteo-728x90-info
+phimsd.org###dp-ad-2
+www.bongdalu.mobi##.adtitle
+sexhayvc.com##.a-ds-footer
+sstruyen.com###main_page>center>div[style="position:relative;width:300px; height:250px; background-color: #EEE; overflow:hidden"]
+sstruyen.com###main_page>center[style="max-width:1000px;display:block;overflow: hidden; height:250px; background-color: #ddd;"]
+thichtruyentranh.com###ads
+thichtruyentranh.com##[name="adsgIf_2"]
+thichtruyentranh.com##[name="adsgIf_3"]
+xxxvc.net##.a-ds-footer
+xxxvc.net##.b-ds-footer
+cdnx.stream###banner
+cdnx.stream##.banner
+phimsexsub.com###style-3>center>iframe[width="300"][height="250"]
+javzz.net###player .banner
+lauxanh.org##.header-ad-mobile
+lauxanh.org##.footer-ad-mobile
+m.blogtruyen.com##.qc-inner
+jav22.net##.float-ck
+jav22.net##.sidebar-ads
+jav22.net##.afs_ads
+jav22.net##iframe[src="https://jav22.net/ads.html"]
+javzz.net##.quangcaomobile
+truyensex.tv##img[src$="truyensex.tv/t1.gif"]
+truyensex.tv##img[src$="truyensex.tv/t2.gif"]
+truyensex.tv##img[src$="truyensex.tv/tt.gif"]
+truyensex.tv##img[src$="truyensex.tv/ttt.gif"]
+truyensex.tv##img[src$="truyensex.tv/b1.gif"]
+truyensex.tv##img[src$="truyensex.tv/b2.gif"]
+truyensex.tv##img[src$="truyensex.tv/allx.jpg"]
+truyensex.tv##img[src$="truyensex.tv/duoi.gif"]
+sexhayvl.pro##.video-infos
+sexhayvl.pro##.float-ck
+javnoi.com###SC_BlockIFrame_498504
+javnoi.com###SC_TBlock_498504
+javnoi.com###divExoLayerWrapper
+javnoi.com##.loading-ad
+javnoi.com##iframe[src="about:blank"]
+phimsex.club##.top-video-banner
+phimsex.club##.banner_bt-player > a
+phimsex.club##div[class^="bn-top-all-page"]
+phimsex.club##.banner-top
+phimsex.club###custom_html-3
+phimsex.club##.ads
+cu3x.net##.float-ck
+cu3x.net##.video-infos
+cu3x.net##.under-player-ad
+bilutv.org###glx-13460-container
+m.danviet.vn##.bannerbv1
+m.danviet.vn##.banner
+nhaccuatui.com##.bannerAdv
+nhaccuatui.com###popup-download-app-nct
+nhaccuatui.com##.overlay-popup-app-nct
+soc3x.com##.float-ck
+soc3x.com##.video-infos > div > a
+soc3x.com##.happy-related-videos-mobile
+soc3x.com##.happy-footer-mobile
+eva.vn##.banr-inner
+eva.vn##.bxnsgd.bn-inpage-z-index
+eva.vn##.banner
+phimsex.to##.ads
+phimsex.to##.ads-sites
+xnxx1.net##.float-ck
+xnxx1.net##.video-infos > div > a
+xnxx1.net##.under-video-block.videos-list > center
+xnxx1.net##.ipprtcnt
+truyensex.tv###sticky-footer
+truyensex.tv##.bai-viet-box > center
+sexhihi.tv###lightbox-player-mb
+sexhihi.tv##.quangcaomobile
+sexhihi.tv##.list > center
+sexhihi.tv##.section-content
+sexhihi.tv##.preload
+sexhihi.tv###divExoLayerWrapper
+sexhihi.tv##.float-ck
+sexhihi.tv##.preload
+xhamster.one###tstop
+xhamster.one##.ts.traffic-stars
+xhamster.one##.wih-spot-container
+xhamster.one##.video_info
+londep.pro##.float-ck
+londep.pro##.video-infos > div > a
+londep.pro##.under-player-ad
+londep.pro##.footer-ad-mobile
+ditvl.net##.float-ck
+ditvl.net##.video-infos > div > a
+ditvl.net##.under-player-ad
+phimsexsub.tv##.jcy-az
+phimsexsub.tv##.b320
+phimsexsub.tv##.a-footer
+phimsexsub.tv##.clipxx
+doanhnghiepvn.vn##.adsbygoogle
+doanhnghiepvn.vn##div[id^="SC_TBlock"]
+doanhnghiepvn.vn##.mgbox
+phimsex1.net##.float-ck
+phimsex1.net##.video-infos > div > a
+phimsex1.net##.under-video-block.videos-list > center
+m.kienthuc.net.vn##.ads
+m.kienthuc.net.vn##.adsbygoogle
+m.kienthuc.net.vn##div[style="overflow: hidden; position: relative; z-index: 2; width: 100%; height: 600px; margin: 0px;"]
+m.kienthuc.net.vn##.sponsor-zone.sponsor-zone-listing
+vlphimsex.net###lightbox-player-mb
+vlphimsex.net##.float-ck
+vlphimsex.net##.quangcaomobile
+vlphimsex.net##.ipprtcnt
+xxphe.com###divExoLayer
+xxphe.com###_asoE0
+xxphe.com##.aso-aid-118015.aso-zone.aso-zone-49748
+thiendia.me##.my_nonresponsive_ads
+thiendia.me###adBottom
+thiendia.me##.secondaryContent
+thiendia.me##.samTextUnit.samThreadPostMessageInside
+thiendia.me##.SamLink
+xnxx.es###content-ad-top-zone
+xnxx.es##.ad-mobilerectangle.ad-support-desktop
+xnxx.es###ad-header-mobile
+xnxx.es###-ad-top-zone-contener
+xnxx.es###content-ad-top-zone
+xnxx.es##.ad-mobilerectangle.ad-support-mobile
+xnxx.es##.thumb-inside > a
+vlxx.cc##div[style="background: #2b2b2b;height: 105px;width: auto;margin: 5px;padding-top: 5px;text-align: center;"]
+vlxx.cc##.ipprtcnt
+vlxx.cc##div[style="background: #2b2b2b; height: 255px; margin: 5px; padding-top: 5px; text-align: center"]
+hentaivn.net##.a_d_s_115
+hentaivn.net###page_ads_right
+m.dantri.com.vn##.footer-banner__container
+m.dantri.com.vn###admbackground
+m.dantri.com.vn##div[id^="d72"]
+24h.com.vn###div-gpt-ad-1490076672670-5
+24h.com.vn##div[id^="ADS_"]
+24h.com.vn##section[id^="bai_pr_"]
+24h.com.vn##article[id^="bai_pr_"]
+24h.com.vn##.banner
+xvideos.com###ad-header-mobile-contener
+xvideos.es###ad-header-mobile-contener
+thiendia.me##.mainContent > center
+xnxx.com###content-ad-top-zone
+xnxx.com##.ad-mobilerectangle.ad-support-desktop
+xnxx.com###-ad-top-zone-contener
+xnxx.com###content-ad-top-zone
+xnxx.com###ad-header-mobile
+xnxx.com##.ad-mobilerectangle.ad-support-mobile
+xnxx.com##.thumb-inside > a
+motphim.co##div[style="padding-bottom: 7px;"]
+motphim.co##.blockbody > div > iframe
+motphim.co##.mad-box
+motphim.co##div[style="padding: 50px 0 10px 0;clear: both"]
+motphim.co###underPlayer
+dongphim.tv##.mgid-sidebar.mgid-container
+dongphim.tv##div[id^="ads-container"]
+dongphim.tv##div[id^="gl-"]
+dongphim.tv##div[class^="aairtime"]
+dongphim.tv##div[class^="asidebar"]
+dongphim.tv##iframe[data-glx="yeap"]
