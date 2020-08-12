@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 201801031820
+! Version: 201801031830
 ! Title: CocCoc White List
 ! CocCoc White List
-! Last modified: 03 Jan 2018 18:00 UTC+7
+! Last modified: 03 Jan 2018 18:30 UTC+7
 ! Expires: 1 hour
 ! Copyright: CocCoc
 !
@@ -20,3 +20,4 @@
 @@||youtube.com$document
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js?v=2018110811
 @@||24h.com.vn$document
+@@||m.dantri.com.vn$document
