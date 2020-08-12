@@ -1,9 +1,10 @@
-! Version: 202008121036
-! Title: Nam Anh Custom List
-! Nam Anh Custom List
-! Last modified: 12 Aug 2020 10:36 UTC+7
+[Adblock Plus 2.0]
+! Version: 201801031820
+! Title: CocCoc Custom List
+! CocCoc Custom List
+! Last modified: 03 Jan 2018 18:00 UTC+7
 ! Expires: 1 hour
-! Copyright: Nam Anh
+! Copyright: CocCoc
 ! ---------- Generic Blocking Rules ----------
 ||ads.exdynsrv.com/ads.js
 ||v9banners.com/*/affiliate/*.gif

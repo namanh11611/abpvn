@@ -1,11 +1,11 @@
-! Version: 202008121036
-! Title: Nam Anh White List
-! Nam Anh White List
-! Last modified: 12 Aug 2020 10:36 UTC+7
-!
-! Copyright: Nam Anh
+[Adblock Plus 2.0]
+! Version: 201801031820
+! Title: CocCoc White List
+! CocCoc White List
+! Last modified: 03 Jan 2018 18:00 UTC+7
 ! Expires: 1 hour
-
+! Copyright: CocCoc
+!
 @@||coccoc.com$document
 @@||coccoc.vn$document
 @@||corom.vn$document
