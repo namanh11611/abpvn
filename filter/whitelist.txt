@@ -19,4 +19,5 @@
 @@||cdn.tgdd.vn/qcao/*$domain=dienmayxanh.com|thegioididong.com
 @@||youtube.com$document
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js?v=2018110811
-@@||m.dantri.com.vn$document
+@@||dantri.com.vn$document
+@@||vnexpress.net$document
