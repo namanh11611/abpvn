@@ -189,6 +189,11 @@ hentaivn.net###page_ads_right
 m.dantri.com.vn##.footer-banner__container
 m.dantri.com.vn###admbackground
 m.dantri.com.vn##div[id^="d72"]
+24h.com.vn###div-gpt-ad-1490076672670-5
+24h.com.vn##div[id^="ADS_"]
+24h.com.vn##section[id^="bai_pr_"]
+24h.com.vn##article[id^="bai_pr_"]
+24h.com.vn##.banner
 xvideos.com###ad-header-mobile-contener
 xvideos.es###ad-header-mobile-contener
 thiendia.me##.mainContent > center
